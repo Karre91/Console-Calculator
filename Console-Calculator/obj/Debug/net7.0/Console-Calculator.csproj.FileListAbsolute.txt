@@ -1,0 +1,15 @@
+C:\DeveloperArea\_Projects\Console-Calculator\Console-Calculator\bin\Debug\net7.0\Console-Calculator.exe
+C:\DeveloperArea\_Projects\Console-Calculator\Console-Calculator\bin\Debug\net7.0\Console-Calculator.deps.json
+C:\DeveloperArea\_Projects\Console-Calculator\Console-Calculator\bin\Debug\net7.0\Console-Calculator.runtimeconfig.json
+C:\DeveloperArea\_Projects\Console-Calculator\Console-Calculator\bin\Debug\net7.0\Console-Calculator.dll
+C:\DeveloperArea\_Projects\Console-Calculator\Console-Calculator\bin\Debug\net7.0\Console-Calculator.pdb
+C:\DeveloperArea\_Projects\Console-Calculator\Console-Calculator\obj\Debug\net7.0\Console-Calculator.csproj.AssemblyReference.cache
+C:\DeveloperArea\_Projects\Console-Calculator\Console-Calculator\obj\Debug\net7.0\Console-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\DeveloperArea\_Projects\Console-Calculator\Console-Calculator\obj\Debug\net7.0\Console-Calculator.AssemblyInfoInputs.cache
+C:\DeveloperArea\_Projects\Console-Calculator\Console-Calculator\obj\Debug\net7.0\Console-Calculator.AssemblyInfo.cs
+C:\DeveloperArea\_Projects\Console-Calculator\Console-Calculator\obj\Debug\net7.0\Console-Calculator.csproj.CoreCompileInputs.cache
+C:\DeveloperArea\_Projects\Console-Calculator\Console-Calculator\obj\Debug\net7.0\Console-Calculator.dll
+C:\DeveloperArea\_Projects\Console-Calculator\Console-Calculator\obj\Debug\net7.0\refint\Console-Calculator.dll
+C:\DeveloperArea\_Projects\Console-Calculator\Console-Calculator\obj\Debug\net7.0\Console-Calculator.pdb
+C:\DeveloperArea\_Projects\Console-Calculator\Console-Calculator\obj\Debug\net7.0\Console-Calculator.genruntimeconfig.cache
+C:\DeveloperArea\_Projects\Console-Calculator\Console-Calculator\obj\Debug\net7.0\ref\Console-Calculator.dll
